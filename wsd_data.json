@@ -9,50 +9,50 @@
       "mechanizm lub urządzenie do zamykania drzwi, szuflad, walizek."
     ],
     [
-      6,
-      "zapięcie przy ubraniu, suwak, ekler."
+      3,
+      "urządzenie do łączenia lub zabezpieczania w ustalonym położeniu elementów maszyny."
     ],
     [
       4,
       "mechanizm broni palnej służący do zamykania na czas wystrzału i otwierania po strzale tylnej części lufy."
     ],
     [
-      7,
-      "zagranie taktyczne w hokeju; zamknięcie przeciwnika w jego tercji lodowiska/boiska."
-    ],
-    [
-      3,
-      "urządzenie do łączenia lub zabezpieczania w ustalonym położeniu elementów maszyny."
-    ],
-    [
       5,
       "blokada w informatyce."
+    ],
+    [
+      6,
+      "zapięcie przy ubraniu, suwak, ekler."
+    ],
+    [
+      7,
+      "zagranie taktyczne w hokeju; zamknięcie przeciwnika w jego tercji lodowiska/boiska."
     ]
   ],
   "igła": [
     [
-      5,
-      "liść o blaszce, która jest podłużna, wąskaj, sztywna i ostra."
+      1,
+      "cienki, wydrążony w środku pręcik, używany jako narzędzie medyczne, np. do zastrzyków, pobierania krwi, kroplówki."
+    ],
+    [
+      2,
+      "rodzaj dużej igły do dziania sieci rybackich."
     ],
     [
       3,
       "iglica - zwieńczenie wieży lub hełmu w formie wysmukłego ostrosłupa lub stożka."
     ],
     [
-      7,
-      "iglica - część urządzenia (np. igła cyrkla, igła od wrzeciona)."
-    ],
-    [
-      1,
-      "cienki, wydrążony w środku pręcik, używany jako narzędzie medyczne, np. do zastrzyków, pobierania krwi, kroplówki."
-    ],
-    [
       4,
       "cienki metalowy pręcik z uszkiem służący do szycia."
     ],
     [
-      2,
-      "rodzaj dużej igły do dziania sieci rybackich."
+      5,
+      "liść o blaszce, która jest podłużna, wąskaj, sztywna i ostra."
+    ],
+    [
+      7,
+      "iglica - część urządzenia (np. igła cyrkla, igła od wrzeciona)."
     ]
   ],
   "pilot": [
@@ -79,24 +79,20 @@
       "przedmiot służący do otwierania zamków lub kłódek."
     ],
     [
-      4,
-      "charakterystyczna formacja tworzona podczas wędrówki przez niektóre migrujące ptaki."
-    ],
-    [
       2,
       "narzędzie techniczne służące do przykręcania i odkręcania śrub i nakrętek."
     ],
     [
-      8,
-      "system znaków (często ukryty pod postacią jakiejś pojedynczej informacji) umożliwiający wykonywanie czynności kryptograficznych lub blok danych służący do szyfrowania informacji."
+      3,
+      "symbol graficzny notacji muzycznej, znak wyznaczający bezwzględną wysokość dźwięku na linii, na której się znajduje."
+    ],
+    [
+      4,
+      "charakterystyczna formacja tworzona podczas wędrówki przez niektóre migrujące ptaki."
     ],
     [
       5,
       "zestaw rozwiązań do zbioru zadań, wskazówek do interpretowania wyników jakiegoś testu czy sprawdzianu."
-    ],
-    [
-      3,
-      "symbol graficzny notacji muzycznej, znak wyznaczający bezwzględną wysokość dźwięku na linii, na której się znajduje."
     ],
     [
       6,
@@ -105,6 +101,10 @@
     [
       7,
       "założenie, na którym oparto sposób prowadzenia lub rozstrzygania spraw; zasada; sposób podejścia do tematu."
+    ],
+    [
+      8,
+      "system znaków (często ukryty pod postacią jakiejś pojedynczej informacji) umożliwiający wykonywanie czynności kryptograficznych lub blok danych służący do szyfrowania informacji."
     ],
     [
       9,
