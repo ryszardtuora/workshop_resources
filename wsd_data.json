@@ -1,167 +1,142 @@
-[
-  [
-    "zamek",
-    1,
-    "warowna budowla mieszkalna, rezydencja pana, króla, księcia lub magnata."
+{
+  "zamek": [
+    [
+      1,
+      "warowna budowla mieszkalna, rezydencja pana, króla, księcia lub magnata."
+    ],
+    [
+      2,
+      "mechanizm lub urządzenie do zamykania drzwi, szuflad, walizek."
+    ],
+    [
+      6,
+      "zapięcie przy ubraniu, suwak, ekler."
+    ],
+    [
+      4,
+      "mechanizm broni palnej służący do zamykania na czas wystrzału i otwierania po strzale tylnej części lufy."
+    ],
+    [
+      7,
+      "zagranie taktyczne w hokeju; zamknięcie przeciwnika w jego tercji lodowiska/boiska."
+    ],
+    [
+      3,
+      "urządzenie do łączenia lub zabezpieczania w ustalonym położeniu elementów maszyny."
+    ],
+    [
+      5,
+      "blokada w informatyce."
+    ]
   ],
-  [
-    "zamek",
-    2,
-    "mechanizm lub urządzenie do zamykania drzwi, szuflad, walizek."
+  "igła": [
+    [
+      5,
+      "liść o blaszce, która jest podłużna, wąskaj, sztywna i ostra."
+    ],
+    [
+      3,
+      "iglica - zwieńczenie wieży lub hełmu w formie wysmukłego ostrosłupa lub stożka."
+    ],
+    [
+      7,
+      "iglica - część urządzenia (np. igła cyrkla, igła od wrzeciona)."
+    ],
+    [
+      1,
+      "cienki, wydrążony w środku pręcik, używany jako narzędzie medyczne, np. do zastrzyków, pobierania krwi, kroplówki."
+    ],
+    [
+      4,
+      "cienki metalowy pręcik z uszkiem służący do szycia."
+    ],
+    [
+      2,
+      "rodzaj dużej igły do dziania sieci rybackich."
+    ]
   ],
-  [
-    "zamek",
-    6,
-    "zapięcie przy ubraniu, suwak, ekler."
+  "pilot": [
+    [
+      3,
+      "pierwszy odcinek programu zapowiadający całą serię."
+    ],
+    [
+      4,
+      "osoba, której zadaniem jest doprowadzenie jakiegoś pojazdu, statku do celu, ułatwienie ruchu drogowego, wodnego lub powietrznego."
+    ],
+    [
+      5,
+      "grindwal krótkopłetwy, Globicephala macrorhynchus – gatunek walenia zaliczany do rodziny delfinowatych, mimo iż swoim zachowaniem bardziej przypomina wieloryba; żyje w stadach liczących od 10 do 30 (lub więcej) okazów."
+    ],
+    [
+      6,
+      "urządzenie do zdalnego sterowania jakimś innym urządzeniem lub zespołem urządzeń."
+    ]
   ],
-  [
-    "zamek",
-    4,
-    "mechanizm broni palnej służący do zamykania na czas wystrzału i otwierania po strzale tylnej części lufy."
-  ],
-  [
-    "zamek",
-    7,
-    "zagranie taktyczne w hokeju; zamknięcie przeciwnika w jego tercji lodowiska/boiska."
-  ],
-  [
-    "zamek",
-    3,
-    "urządzenie do łączenia lub zabezpieczania w ustalonym położeniu elementów maszyny."
-  ],
-  [
-    "zamek",
-    5,
-    "blokada w informatyce."
-  ],
-  [
-    "igła",
-    5,
-    "liść o blaszce, która jest podłużna, wąskaj, sztywna i ostra."
-  ],
-  [
-    "igła",
-    3,
-    "iglica - zwieńczenie wieży lub hełmu w formie wysmukłego ostrosłupa lub stożka."
-  ],
-  [
-    "igła",
-    7,
-    "iglica - część urządzenia (np. igła cyrkla, igła od wrzeciona)."
-  ],
-  [
-    "igła",
-    1,
-    "cienki, wydrążony w środku pręcik, używany jako narzędzie medyczne, np. do zastrzyków, pobierania krwi, kroplówki."
-  ],
-  [
-    "igła",
-    4,
-    "cienki metalowy pręcik z uszkiem służący do szycia."
-  ],
-  [
-    "igła",
-    2,
-    "rodzaj dużej igły do dziania sieci rybackich."
-  ],
-  [
-    "pilot",
-    3,
-    "pierwszy odcinek programu zapowiadający całą serię."
-  ],
-  [
-    "pilot",
-    4,
-    "osoba, której zadaniem jest doprowadzenie jakiegoś pojazdu, statku do celu, ułatwienie ruchu drogowego, wodnego lub powietrznego."
-  ],
-  [
-    "pilot",
-    5,
-    "grindwal krótkopłetwy, Globicephala macrorhynchus – gatunek walenia zaliczany do rodziny delfinowatych, mimo iż swoim zachowaniem bardziej przypomina wieloryba; żyje w stadach liczących od 10 do 30 (lub więcej) okazów."
-  ],
-  [
-    "pilot",
-    6,
-    "urządzenie do zdalnego sterowania jakimś innym urządzeniem lub zespołem urządzeń."
-  ],
-  [
-    "klucz",
-    1,
-    "przedmiot służący do otwierania zamków lub kłódek."
-  ],
-  [
-    "klucz",
-    4,
-    "charakterystyczna formacja tworzona podczas wędrówki przez niektóre migrujące ptaki."
-  ],
-  [
-    "klucz",
-    2,
-    "narzędzie techniczne służące do przykręcania i odkręcania śrub i nakrętek."
-  ],
-  [
-    "klucz",
-    8,
-    "system znaków (często ukryty pod postacią jakiejś pojedynczej informacji) umożliwiający wykonywanie czynności kryptograficznych lub blok danych służący do szyfrowania informacji."
-  ],
-  [
-    "klucz",
-    5,
-    "zestaw rozwiązań do zbioru zadań, wskazówek do interpretowania wyników jakiegoś testu czy sprawdzianu."
-  ],
-  [
-    "klucz",
-    3,
-    "symbol graficzny notacji muzycznej, znak wyznaczający bezwzględną wysokość dźwięku na linii, na której się znajduje."
-  ],
-  [
-    "klucz",
-    6,
-    "objaśnienie, komentarz, instrukcja do rozwiązywania zadań."
-  ],
-  [
-    "klucz",
-    7,
-    "założenie, na którym oparto sposób prowadzenia lub rozstrzygania spraw; zasada; sposób podejścia do tematu."
-  ],
-  [
-    "klucz",
-    9,
-    "element konstrukcji; często ozdobny szczytowy kliniec łuku lub niektórych typów sklepienia; zwornik."
-  ],
-  [
-    "klucz",
-    10,
-    "środek, sposób na poradzenie sobie z czymś, rozgryzienie, zrozumienie czegoś."
-  ],
-  [
-    "klucz",
-    11,
-    "narzędzie do nakręcania mechanizmu sprężynowego."
-  ],
-  [
-    "klucz",
-    12,
-    "przycisk przy urządzeniu telegraficznym lub radiowym, dzięki któremu steruje się wysyłaniem lub przerywaniem sygnału."
-  ],
-  [
-    "klucz",
-    13,
-    "najmniejsza formacja w lotnictwie, licząca od trzech do pięciu samolotów."
-  ],
-  [
-    "klucz",
-    14,
-    "w różnych naukach przyrodniczych: wykaz zawierający systematykę (np. organizmów, minerałów), służący do ich oznaczania."
-  ],
-  [
-    "klucz",
-    15,
-    "zespół majątków ziemskich, które są położone blisko siebie i znajdują się pod wspólnym zarządem."
-  ],
-  [
-    "klucz",
-    16,
-    "element instrumentów strunowych - począwszy od skrzypiec, przez kontrabas, po gitarę - zamontowany najczęściej na główce, odpowiadający za strojenie."
+  "klucz": [
+    [
+      1,
+      "przedmiot służący do otwierania zamków lub kłódek."
+    ],
+    [
+      4,
+      "charakterystyczna formacja tworzona podczas wędrówki przez niektóre migrujące ptaki."
+    ],
+    [
+      2,
+      "narzędzie techniczne służące do przykręcania i odkręcania śrub i nakrętek."
+    ],
+    [
+      8,
+      "system znaków (często ukryty pod postacią jakiejś pojedynczej informacji) umożliwiający wykonywanie czynności kryptograficznych lub blok danych służący do szyfrowania informacji."
+    ],
+    [
+      5,
+      "zestaw rozwiązań do zbioru zadań, wskazówek do interpretowania wyników jakiegoś testu czy sprawdzianu."
+    ],
+    [
+      3,
+      "symbol graficzny notacji muzycznej, znak wyznaczający bezwzględną wysokość dźwięku na linii, na której się znajduje."
+    ],
+    [
+      6,
+      "objaśnienie, komentarz, instrukcja do rozwiązywania zadań."
+    ],
+    [
+      7,
+      "założenie, na którym oparto sposób prowadzenia lub rozstrzygania spraw; zasada; sposób podejścia do tematu."
+    ],
+    [
+      9,
+      "element konstrukcji; często ozdobny szczytowy kliniec łuku lub niektórych typów sklepienia; zwornik."
+    ],
+    [
+      10,
+      "środek, sposób na poradzenie sobie z czymś, rozgryzienie, zrozumienie czegoś."
+    ],
+    [
+      11,
+      "narzędzie do nakręcania mechanizmu sprężynowego."
+    ],
+    [
+      12,
+      "przycisk przy urządzeniu telegraficznym lub radiowym, dzięki któremu steruje się wysyłaniem lub przerywaniem sygnału."
+    ],
+    [
+      13,
+      "najmniejsza formacja w lotnictwie, licząca od trzech do pięciu samolotów."
+    ],
+    [
+      14,
+      "w różnych naukach przyrodniczych: wykaz zawierający systematykę (np. organizmów, minerałów), służący do ich oznaczania."
+    ],
+    [
+      15,
+      "zespół majątków ziemskich, które są położone blisko siebie i znajdują się pod wspólnym zarządem."
+    ],
+    [
+      16,
+      "element instrumentów strunowych - począwszy od skrzypiec, przez kontrabas, po gitarę - zamontowany najczęściej na główce, odpowiadający za strojenie."
+    ]
   ]
-]
+}
